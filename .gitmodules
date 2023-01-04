@@ -1,0 +1,3 @@
+[submodule "SubModuleLib"]
+	path = SubModuleLib
+	url = https://github.com/leosai82/SubModuleLib.git
