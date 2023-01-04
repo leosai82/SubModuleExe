@@ -6,7 +6,7 @@ namespace SubModuleExe
     {
         static void Main(string[] args)
         {
-            new SubModuleLib.Class1();
+            new SubModuleLib.Class2();
 
             Console.WriteLine("Hello World!");
         }
